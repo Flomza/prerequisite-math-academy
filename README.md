@@ -8,3 +8,5 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Algebra 2](coursepages/algebra-2/README.md) | ? weeks | ? hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 [College Algebra](coursepages/college-algebra/README.md) | ? weeks | ? hours/week | Algebra 2 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 [Trigonometry](coursepages/trigonometry/README.md) | ? weeks | ? hours/week | College Algebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+
+We need better assessments than Khan Academy. Perhaps a selection of textbook problems from across all of the chapters in a particular class?
