@@ -3,7 +3,7 @@
 - Lectures: [Professor Leonard Precalculus (Last 42 lectures)](https://www.youtube.com/watch?v=c41QejoWnb4&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=74)
 - Textbook: [OpenStax Precalculus 2e (Chapter 5-8)](https://openstax.org/books/precalculus-2e)
 
-Lecture | Section
+Lectures | Sections
 --- | ---
 1-5 | 5.1
 6-10 | 5.2, 5.3
