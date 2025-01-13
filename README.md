@@ -9,4 +9,17 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [College Algebra](coursepages/college-algebra/README.md) | ? weeks | ? hours/week | Algebra 2 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 [Trigonometry](coursepages/trigonometry/README.md) | ? weeks | ? hours/week | College Algebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 
-We need better assessments than Khan Academy. Perhaps a selection of textbook problems from across all of the chapters in a particular class?
+# Prerequisite Math Development Roadmap
+The main problem with prerequisite math in OSSU is the lack of direction that new learners face. How many practice problems do I solve? Which chapters in the textbook go with which lecture? When do I take the Chapter Review Exercises and the Chapter Test? This course aims to resolve these issues.
+1. Map each of Professor Leonard's lectures to a corresponding chapter in an OpenStax textbook.
+    - OpenStax may or may not be the best textbook for this task. Currently reviewing other textbooks like ck12, etc.
+2. "Assign" practice problems and/or readings for each lecture/group of lectures.
+    - We need to decide how many practice problems are sufficient, or if we even need practice problems.
+    - If we continue with the current strategy of taking the review exercises first to determine what to practice, we need to reorganize Professor Leonard's lectures by textbook chapter so that way it's more cohesive to take those end of chapter review exercises & tests. (This is the easiest way to go about this curriculum for now)
+3. Build accurate assessments for each course that cover the material in the order we provide. Additionally, add headings to each assessment so that students can pinpoint precisely where to start in the curriculum.
+    - Unfortunately, ALEKS, the previous solution to this problem, is no longer free and will not be for the forseeable future. 
+    - Many classes teach different topics in different orders and in different classes. Khan Academy is not likely to be sufficient for this course sequence once we're done. For instance, they cover all of trigonometry across multiple different classes which messes with things if you're just trying to test yourself within our Algebra 2 curriculum.
+    - A curated selection of textbook problems from across all of the chapters in a particular class is probably the way to go.
+    - The assessments should contain no more problems than they need to, but like a map they should guide the learner directly to what they need to study.
+4. Determine the scope of the course sequence.
+    - What about High School Geometry, multiplication tables, matricies, probability? etc.
