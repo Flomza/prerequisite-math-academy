@@ -23,4 +23,4 @@ The main problem with prerequisite math in OSSU is the lack of direction that ne
     - The assessments should contain no more problems than they need to, but like a map they should guide the learner directly to what they need to study.
 4. Determine the scope of the course sequence.
     - What about High School Geometry, multiplication tables, matricies, probability? etc.
-5. Determine if this should be more than just "math". OSSU has other prerequisites such as physics. Maybe this could be an opportunity to resolve [RFC #1060](https://github.com/ossu/computer-science/issues/1060) as well.
+5. Determine if this should be more than just "math". OSSU has other prerequisites such as physics and [Intro Programming](https://github.com/ossu/computer-science/blob/master/coursepages/intro-programming/README.md). Maybe this could be an opportunity to resolve [RFC #1060](https://github.com/ossu/computer-science/issues/1060) as well.
