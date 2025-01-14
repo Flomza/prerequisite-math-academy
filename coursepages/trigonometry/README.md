@@ -9,7 +9,7 @@ Lessons | Readings/Exercises
 1-5 | 5.1
 6-10 | 5.2, 5.3
 30-31 | 5.4
-Practice Test | Chapter 5 Review Exercises
+Review | Chapter 5 Review Exercises
 Test | Chapter 5 Test
 
 ## Chapter 6: Periodic Functions
@@ -19,7 +19,7 @@ Lessons | Readings/Exercises
 13-15 | 6.2
 16 | 6.1, 6.2
 17-21 | 6.3
-Practice Test | Chapter 6 Review Exercises
+Review | Chapter 6 Review Exercises
 Test | Chapter 6 Test
 
 ## Chapter 7: Trigonometric Identities & Equations
@@ -30,7 +30,7 @@ Lessons | Readings/Exercises
 27-28 | 7.3
 29 | 7.4
 35 | 7.6
-Practice Test | Chapter 7 Review Exercises
+Review | Chapter 7 Review Exercises
 Test | Chapter 7 Test
 
 ## Chapter 8: Further Applications of Trigonometry
@@ -41,5 +41,5 @@ Lessons | Readings/Exercises
 34 | 8.1, 8.2
 36-40 | 8.3
 41-42 | 8.4
-Practice Test | Chapter 8 Review Exercises
+Review | Chapter 8 Review Exercises
 Test | Chapter 8 Test
