@@ -25,8 +25,8 @@ Test | Chapter 3 Test
 Lessons | Readings/Exercises
 --- | ---
 16-21 | ?
-22 | 2.2
-23 | 9.1, ~9.2 ?
+22 | ?
+23 | ?
 
 ## Chapter 5: Polynomial and Rational Functions
 Lessons | Readings/Exercises
