@@ -1,20 +1,20 @@
 # Prerequisite Math
 The purpose of this course sequence is to replicate a remedial math program that you would typically find at a community college. Completing this sequence should set you up to be successful in [Computer Science](https://cs.ossu.dev/), [Data Science](https://ds.ossu.dev/), and [Math](https://math.ossu.dev/) degrees.  
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Prealgebra](coursepages/prealgebra/README.md) | 10 weeks | 10 hours/week | None | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Algebra 1](coursepages/algebra-1/README.md) | 8 weeks | 10 hours/week | Prealgebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Geometry](https://flexbooks.ck12.org/cbook/ck-12-basic-geometry-concepts/) | 12 weeks | 10 hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Algebra 2](coursepages/algebra-2/README.md) | 14 weeks | 10 hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[College Algebra](coursepages/college-algebra/README.md) | 11 weeks | 10 hours/week | Algebra 2 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Trigonometry](coursepages/trigonometry/README.md) | 8 weeks | 10 hours/week | College Algebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+Courses | Duration | Effort | Prerequisites | Assessments | Discussion
+:-- | :--: | :--: | :--: | :--: | :--:
+[Prealgebra](coursepages/prealgebra/README.md) | 10 weeks | 10 hours/week | None | [Course Challenge](https://www.khanacademy.org/math/pre-algebra/test/xb4832e56:course-challenge) | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Algebra 1](coursepages/algebra-1/README.md) | 8 weeks | 10 hours/week | Prealgebra | [Course Challenge](https://www.khanacademy.org/math/algebra/test/x2f8bb11595b61c86:course-challenge) | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Geometry](https://flexbooks.ck12.org/cbook/ck-12-basic-geometry-concepts/) | 12 weeks | 10 hours/week | Algebra 1 | [Course Challenge](https://www.khanacademy.org/math/geometry/test/xff63fac4:course-challenge) | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Algebra 2](coursepages/algebra-2/README.md) | 14 weeks | 10 hours/week | Algebra 1 | [Course Challenge](https://www.khanacademy.org/math/algebra2/test/x2ec2f6f830c9fb89:course-challenge) | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[College Algebra](coursepages/college-algebra/README.md) | 11 weeks | 10 hours/week | Algebra 2 | [Course Challenge](https://www.khanacademy.org/math/precalculus/test/x9e81a4f98389efdf:course-challenge) | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Trigonometry](coursepages/trigonometry/README.md) | 8 weeks | 10 hours/week | College Algebra | [Course Challenge](https://www.khanacademy.org/math/trigonometry/test/xfefa5515:course-challenge) | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 
 # Prerequisite Physics
 For OSSU Students who want to take Advanced Systems, this should satisfy the requirements of basic Physics. If you wish to go deeper into the study of Physics, see this [guide](https://www.susanrigetti.com/physics).
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Physics](https://flexbooks.ck12.org/cbook/ck-12-physics-flexbook-2.0/) | 12 weeks | 10 hours/week | Trigonometry | [chat](https://discord.com/channels/744385009028431943/881777917653286942)
+Courses | Duration | Effort | Prerequisites | Assessments | Discussion
+:-- | :--: | :--: | :--: | :--: | :--:
+[Physics](https://flexbooks.ck12.org/cbook/ck-12-physics-flexbook-2.0/) | 12 weeks | 10 hours/week | Trigonometry | [Physics 1](https://www.khanacademy.org/science/ap-college-physics-1/test/xf557a762645cccc5:course-challenge), [Physics 2](https://www.khanacademy.org/science/ap-physics-2/test/x0e2f5a2c:course-challenge) | [chat](https://discord.com/channels/744385009028431943/881777917653286942)
 
 # Prerequisite Math Development Roadmap
 The main problem with prerequisite math in OSSU is the lack of direction that new learners face. How many practice problems do I solve? Which chapters in the textbook go with which lecture? When do I take the Chapter Review Exercises and the Chapter Test? This course aims to resolve these issues.
