@@ -3,12 +3,18 @@ The purpose of this course sequence is to replicate a remedial math program that
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Prealgebra](coursepages/prealgebra/README.md) | ? weeks | ? hours/week | None | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Algebra 1](coursepages/algebra-1/README.md) | ? weeks | ? hours/week | Prealgebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Geometry](https://flexbooks.ck12.org/cbook/ck-12-basic-geometry-concepts/) | ? weeks | ? hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Algebra 2](coursepages/algebra-2/README.md) | ? weeks | ? hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[College Algebra](coursepages/college-algebra/README.md) | ? weeks | ? hours/week | Algebra 2 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
-[Trigonometry](coursepages/trigonometry/README.md) | ? weeks | ? hours/week | College Algebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Prealgebra](coursepages/prealgebra/README.md) | 10 weeks | 10 hours/week | None | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Algebra 1](coursepages/algebra-1/README.md) | 8 weeks | 10 hours/week | Prealgebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Geometry](https://flexbooks.ck12.org/cbook/ck-12-basic-geometry-concepts/) | 12 weeks | 10 hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Algebra 2](coursepages/algebra-2/README.md) | 14 weeks | 10 hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[College Algebra](coursepages/college-algebra/README.md) | 11 weeks | 10 hours/week | Algebra 2 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Trigonometry](coursepages/trigonometry/README.md) | 8 weeks | 10 hours/week | College Algebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+
+# Prerequisite Physics
+For OSSU Students who want to take Advanced Systems, this should satisfy the requirements of basic Physics. If you wish to go deeper into the study of Physics, see this [guide](https://www.susanrigetti.com/physics).
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Physics](https://flexbooks.ck12.org/cbook/ck-12-physics-flexbook-2.0/) | 12 weeks | 10 hours/week | Trigonometry | [chat](https://discord.com/channels/744385009028431943/881777917653286942)
 
 # Prerequisite Math Development Roadmap
 The main problem with prerequisite math in OSSU is the lack of direction that new learners face. How many practice problems do I solve? Which chapters in the textbook go with which lecture? When do I take the Chapter Review Exercises and the Chapter Test? This course aims to resolve these issues.
@@ -22,6 +28,4 @@ The main problem with prerequisite math in OSSU is the lack of direction that ne
     - Many classes teach different topics in different orders and in different classes. Khan Academy is not likely to be sufficient for this course sequence once we're done. For instance, they cover all of trigonometry across multiple different classes which messes with things if you're just trying to test yourself within our Algebra 2 curriculum.
     - A curated selection of textbook problems from across all of the chapters in a particular class is probably the way to go.
     - The assessments should contain no more problems than they need to, but like a map they should guide the learner directly to what they need to study.
-4. Determine the scope of the course sequence.
-    - What about High School Geometry, multiplication tables, matricies, probability? etc.
-5. Determine if this should be more than just "math". OSSU has other prerequisites such as physics and [Intro Programming](https://github.com/ossu/computer-science/blob/master/coursepages/intro-programming/README.md). Maybe this could be an opportunity to resolve [RFC #1060](https://github.com/ossu/computer-science/issues/1060) as well.
+4. Determine if this should be more than just "math". OSSU has other prerequisites such as physics and [Intro Programming](https://github.com/ossu/computer-science/blob/master/coursepages/intro-programming/README.md). Maybe this could be an opportunity to resolve [RFC #1060](https://github.com/ossu/computer-science/issues/1060) as well.
