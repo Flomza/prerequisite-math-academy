@@ -27,14 +27,15 @@ Lessons | Readings/Exercises
 Review | Chapter 3 Review Exercises
 Test | Chapter 3 Test
 
+## Review: Factoring/Solving Quadratics
 Lessons | Readings/Exercises
 --- | ---
 [16: Introduction to Solving Quadratics](https://www.youtube.com/watch?v=OIEkJaPgjKs&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=16&pp=iAQB) | -
 [17: The Square Root Method in Solving Quadratics](https://www.youtube.com/watch?v=mXAd6rkNSK0&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=17&pp=iAQB) | -
-[18: Using Factoring to Solve Quadratics](https://www.youtube.com/watch?v=u2CFHYJWS60&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=18&pp=iAQB) | -
+[18: Using Factoring to Solve Quadratics](https://www.youtube.com/watch?v=u2CFHYJWS60&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=18&pp=iAQB) | 1.4, 1.5
 [19: Completing the Square Made Easy](https://www.youtube.com/watch?v=pYSYL_vy6YQ&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=19&pp=iAQB) | -
 [20: Proving the Quadratic Formula - Twice](https://www.youtube.com/watch?v=2BUg_w1Cu9E&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=20&pp=iAQB) | -
-[21: Using the Quadratic Formula](https://www.youtube.com/watch?v=KIWXZVsdpbE&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=21&pp=iAQB) | -
+[21: Using the Quadratic Formula](https://www.youtube.com/watch?v=KIWXZVsdpbE&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=21&pp=iAQB) | 2.5, 5.1
 [22: Finding Intersections of Functions](https://www.youtube.com/watch?v=2cXEuUazjCc&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=22&pp=iAQB) | - 
 [23: Using Substitutions to Solve Equations](https://www.youtube.com/watch?v=P8uoP-JFj54&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=23&pp=iAQB) | -
 
@@ -89,7 +90,7 @@ Lessons | Readings/Exercises
 Review | Chapter 6 Review Exercises
 Test | Chapter 6 Test
 
-## Chapter 9: Sequences and Series
+## Chapter 9: Sequences, Series, and Induction
 Lessons | Readings/Exercises
 --- | ---
 [67: Introduction to Sequences](https://www.youtube.com/watch?v=c5D7BJ-R41I&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=67&pp=iAQB) | 9.1
@@ -98,9 +99,6 @@ Lessons | Readings/Exercises
 [70: Arithmetic Series](https://www.youtube.com/watch?v=XdXQjHsl4q0&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=70&pp=iAQB) | 9.2, 9.4
 [71: Geometric Sequences](https://www.youtube.com/watch?v=qyHCnYewdrQ&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=71&pp=iAQB) | -
 [72: Geometric Series](https://www.youtube.com/watch?v=_yDqkrbd5mk&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=72&pp=iAQB) | 9.3, 9.4
+[73: Proof by Mathematical Induction](https://www.youtube.com/watch?v=x5cWX-EyLEI&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=73&pp=iAQB)  | [12.9: Induction Proofs](https://flexbooks.ck12.org/cbook/ck-12-precalculus-concepts-2.0/section/12.9/primary/lesson/induction-proofs-pcalc/)
 Review | Chapter 9 Review Exercises
 Test | Chapter 9 Test
-
-Lessons | Readings/Exercises
---- | ---
-[73: Proof by Mathematical Induction](https://www.youtube.com/watch?v=x5cWX-EyLEI&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&index=73&pp=iAQB)  | [12.9: Induction Proofs](https://flexbooks.ck12.org/cbook/ck-12-precalculus-concepts-2.0/section/12.9/primary/lesson/induction-proofs-pcalc/)

@@ -3,6 +3,7 @@
 - Lectures: [Professor Leonard Prealgebra (44 Lectures)](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13)
 - Textbook: [OpenStax Prealgebra 2e](https://openstax.org/details/books/prealgebra-2e)
 
+## The Whole Numbers
 Lessons | Readings/Exercises
 --- | ---
 [1.2: Studying Place Value and Expanded Form of Numbers](https://www.youtube.com/watch?v=cC7n_ZyVUns&list=PL4C9296DF81B9EF13&index=1&t=2s&pp=iAQB) | -
@@ -13,6 +14,7 @@ Lessons | Readings/Exercises
 [1.7: Studying Exponents and Order of Operations](https://www.youtube.com/watch?v=NKrxqWhf01Q&list=PL4C9296DF81B9EF13&index=6&pp=iAQB) | -
 [1.8: An Introduction to Variables and Algebraic Expressions](https://www.youtube.com/watch?v=hURKivs0GIs&list=PL4C9296DF81B9EF13&index=7&pp=iAQB) | -
 
+## Integers & Introduction to Solving Equations
 Lessons | Readings/Exercises
 --- | ---
 [2.1: Introduction to Integers](https://www.youtube.com/watch?v=ZfujseLAsdQ&list=PL4C9296DF81B9EF13&index=8&pp=iAQB) | -
@@ -22,6 +24,7 @@ Lessons | Readings/Exercises
 [2.5: Studying Order of Operations with Integers](https://www.youtube.com/watch?v=v0Kk908aJIg&list=PL4C9296DF81B9EF13&index=12&pp=iAQB) | -
 [2.6: An Introduction to Solving Basic Equations](https://www.youtube.com/watch?v=4hDDWuibpf4&list=PL4C9296DF81B9EF13&index=13&pp=iAQB) | -
 
+## Solving Equations & Problem Solving
 Lessons | Readings/Exercises
 --- | ---
 [3.1: Simplifying Algebraic Expressions](https://www.youtube.com/watch?v=E2BoPzUIJDk&list=PL4C9296DF81B9EF13&index=14&pp=iAQB) | -
@@ -29,6 +32,7 @@ Lessons | Readings/Exercises
 [3.3: Solving General Equations, How to Solve Any Equation in Prealgebra](https://www.youtube.com/watch?v=84O6OdooLas&list=PL4C9296DF81B9EF13&index=16&pp=iAQB) | -
 [3.4: Translating Sentences into Equations, Intro to Word Problems](https://www.youtube.com/watch?v=Qv8Mfjyyjto&list=PL4C9296DF81B9EF13&index=17&pp=iAQB) | -
 
+## Fractions & Mixed Numbers
 Lessons | Readings/Exercises
 --- | ---
 [4.1: Introduction to Fractions](https://www.youtube.com/watch?v=xEhnGTOC02E&list=PL4C9296DF81B9EF13&index=18&pp=iAQB) | -
@@ -40,6 +44,7 @@ Lessons | Readings/Exercises
 [4.7: Operations with Mixed Number Fractions](https://www.youtube.com/watch?v=wXB-CA9C2dY&list=PL4C9296DF81B9EF13&index=24&pp=iAQB) | -
 [4.8: Solving Equations With Fractions](https://www.youtube.com/watch?v=I04mEnnRJSM&list=PL4C9296DF81B9EF13&index=25&pp=iAQB) | -
 
+## Decimals
 Lessons | Readings/Exercises
 --- | ---
 [5.1: Introductions to Decimal Numbers](https://www.youtube.com/watch?v=YyHKzTSq6Qw&list=PL4C9296DF81B9EF13&index=26&pp=iAQB) | -
@@ -50,6 +55,7 @@ Lessons | Readings/Exercises
 [5.6: Solving Equations with Decimals](https://www.youtube.com/watch?v=SaVT-dhsw_g&list=PL4C9296DF81B9EF13&index=31&pp=iAQB) | -
 [5.7: Finding Averages: The Mean, Median, and Mode](https://www.youtube.com/watch?v=8U1ZVEIWFLs&list=PL4C9296DF81B9EF13&index=32&pp=iAQB) | -
 
+## Ratio, Proportion, & Triangle Applications
 Lessons | Readings/Exercises
 --- | ---
 [6.1: Writing and Simplifying Ratios and Rates](https://www.youtube.com/watch?v=vtjQLbnIeck&list=PL4C9296DF81B9EF13&index=33&pp=iAQB) | -
@@ -57,6 +63,7 @@ Lessons | Readings/Exercises
 [6.3: Applications of Solving Equations with Proportions](https://www.youtube.com/watch?v=eiSeEzzXfuI&list=PL4C9296DF81B9EF13&index=35&pp=iAQB) | -
 [6.4: Simplifying Square Roots and Solving Problems with the Pythagorean Theorem](https://www.youtube.com/watch?v=FdLA93kCr8Y&list=PL4C9296DF81B9EF13&index=36&pp=iAQB) | -
 
+## Percent
 Lessons | Readings/Exercises
 --- | ---
 [7.1: Introduction to Percent and Percentages](https://www.youtube.com/watch?v=9-59czMohx8&list=PL4C9296DF81B9EF13&index=37&pp=iAQB) | -
@@ -65,6 +72,7 @@ Lessons | Readings/Exercises
 [7.5: Solving Problems with Sales Tax, Commission, and Discount](https://www.youtube.com/watch?v=qvKt647UtnU&list=PL4C9296DF81B9EF13&index=40&pp=iAQB) | -
 [7.6: Solving Simple Interest and Compound Interest Problems](https://www.youtube.com/watch?v=b3FZRzIov8E&list=PL4C9296DF81B9EF13&index=41&pp=iAQB) | -
 
+## Exponents & Polynomials
 Lessons | Readings/Exercises
 --- | ---
 [10.1: Adding and Subtracting Polynomials](https://www.youtube.com/watch?v=V07jIK85suY&list=PL4C9296DF81B9EF13&index=42&pp=iAQB) | -
