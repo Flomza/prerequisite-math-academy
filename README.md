@@ -5,6 +5,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Prealgebra](coursepages/prealgebra/README.md) | ? weeks | ? hours/week | None | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 [Algebra 1](coursepages/algebra-1/README.md) | ? weeks | ? hours/week | Prealgebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
+[Geometry](https://flexbooks.ck12.org/cbook/ck-12-basic-geometry-concepts/) | ? weeks | ? hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 [Algebra 2](coursepages/algebra-2/README.md) | ? weeks | ? hours/week | Algebra 1 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 [College Algebra](coursepages/college-algebra/README.md) | ? weeks | ? hours/week | Algebra 2 | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
 [Trigonometry](coursepages/trigonometry/README.md) | ? weeks | ? hours/week | College Algebra | [chat](https://discord.com/channels/744385009028431943/744971809056751687)
